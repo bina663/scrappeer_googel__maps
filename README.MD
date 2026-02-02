@@ -99,5 +99,5 @@ O script irá:
 
 ## Possíveis Melhorias Futuras
 
-* Capturar dados em headless
+* Capturar dados 100% em headless, o site possui algum bloqueio que impede a captura
 

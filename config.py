@@ -1,7 +1,7 @@
 
 
-#SEARCHS_DIC = ["Restaurante", "Academia", "Sorveteria"] #ESTABELECIMENTOS QUE DESEJA CONSULTA
-SEARCHS_DIC = ["Restaurante"] #ESTABELECIMENTOS QUE DESEJA CONSULTA
+
+SEARCHS_DIC = ["Restaurante", "Academia", "Sorveteria"] #ESTABELECIMENTOS QUE DESEJA CONSULTA
 BASE_URL = "https://www.google.com/maps/search/" #BASE URL QUE SERA FEITA A CONSULTA
 
 #CONFIGURACAO DO SELENIUM
